@@ -1,2 +1,2 @@
-# Ken_Portfolio
-A data science portfolio of Ken Jee.
+# Daniel_Portfolio
+A data science portfolio of Daniel Cheung.
